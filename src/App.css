@@ -1,0 +1,12 @@
+body::before {
+  display: block;
+  content: '';
+  height: 60px;
+}
+.section-contact{
+  margin-top: 100px;
+}
+.section-login{
+  margin-top: 300px;
+  margin-bottom: 250px;
+}
